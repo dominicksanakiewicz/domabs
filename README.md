@@ -8,8 +8,6 @@ The Coffee Coders are made up of two groups from the University of Chicago Harri
 
 **Coffee Coders Group 49:** Amanda Gu (AmandaAtHarris) & Zhen Zang (UChiZhen)
 
-this is our final project repo, for a full history of commits please see: https://github.com/AmandaAtHarris/CoffeeCoders/commits/main/
-
 ## Research Question
 
 This project uses data to explore education outcomes across Cook County using data from 2018-2024.
@@ -35,9 +33,11 @@ All of our data is publicly available.
 
 The data processing flow is as follows:
 
-1. **`preprocessing.py`** — Cleans all raw data from `data/raw-data/` and merges into `data/derived-data/final_merged.csv`
-2. **`ml_pipeline.py`** — Runs the ElasticNet model and outputs coefficients to `outputs/`
-3. **`writeup-alphabet.qmd`** — Writeup with static visualizations
+1. **`requirements.txt`** - download the needed packages using the requirements.txt from **root** (pip install -r requirements.txt)
+2. **`preprocessing.py`** — Cleans all raw data from `data/raw-data/` and merges into `data/derived-data/final_merged.csv`
+3. **`ml_pipeline.py`** — Runs the ElasticNet model and outputs coefficients to `outputs/`
+4. **`app.py`** - streamlit run for the data visualization
+5. **`final_project.qmd`** — Writeup with static visualizations
 
 ## Streamlit Dashboard
 
