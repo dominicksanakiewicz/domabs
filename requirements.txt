@@ -11,5 +11,5 @@ mapclassify>=2.6
 statsmodels>=0.14
 plotly>=5.0
 streamlit>=1.48.0
-requests>=2.31
 jupyter
+requests>=2.31
