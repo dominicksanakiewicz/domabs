@@ -1,6 +1,15 @@
-streamlit>=1.48.0
 pandas>=2.0
 numpy>=1.26
 scipy>=1.11
 scikit-learn>=1.5
+matplotlib>=3.7
+geopandas>=0.14
+shapely>=2.0
+contextily>=1.4
+geopy>=2.4
+mapclassify>=2.6
+statsmodels>=0.14
 plotly>=5.0
+streamlit>=1.48.0
+requests>=2.31
+jupyter
