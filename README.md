@@ -41,7 +41,7 @@ The data processing flow is as follows:
 
 ## Streamlit Dashboard
 
-**Dashboard link:** https://coffinatedcoders.streamlit.app/
+**Dashboard link:** [https://coffinatedcoders.streamlit.app/](https://coffinatededu.streamlit.app/)
 
 > **Note:** Streamlit Community Cloud apps need to be "woken up" if they have not been run in the last 24 hours. This is normal Streamlit behavior, not a bug.
 
@@ -60,4 +60,5 @@ CoffeeCoders/
 ├── requirements.txt       # Python dependencies
 └── .gitignore
 ```
+
 
