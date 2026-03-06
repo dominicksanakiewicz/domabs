@@ -5,13 +5,3 @@ numpy>=1.26
 scipy>=1.11
 scikit-learn>=1.5
 plotly>=5.0
-geopandas
-shapely
-pyproj
-rtree
-geopandas
-matplotlib
-shapely
-contextily
-geopy
-requests
