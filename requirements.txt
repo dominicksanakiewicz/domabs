@@ -8,3 +8,9 @@ geopandas
 shapely
 pyproj
 rtree
+geopandas
+matplotlib
+shapely
+contextily
+geopy
+requests
